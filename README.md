@@ -8,7 +8,7 @@ The program creates logical folder structures using trees, hence saving space on
 
 **How is this better?**
 
-This provides an OS independant solution, i.e. The application can be used on any OS on the server side.
+This provides an OS independent solution, i.e. The application can be used on any OS on the server side.
 
 # Future Scope
 1. To enable automatic OS detection.
